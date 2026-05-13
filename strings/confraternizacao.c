@@ -89,7 +89,7 @@ for (int i = 0; i < 5; i++)
 printf("\nTotal da festa R$ %.2f", total);
 printf("\nTotal de salgadinho por pessoa R$ &%.2f", total / Ptotal);
 
-printf("\n total de bebidas por pessoa R$ &")
+printf("\n total de bebidas por pessoa R$ &");
 
     return 0;
 }
