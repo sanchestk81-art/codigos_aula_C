@@ -3,10 +3,11 @@
 
 void Calculandofiguras(){
 
+      setlocale(LC_ALL, "Portuguese_Brazil.UTF-8");
+
     float const pi= 3.14;
     float Lado = 0; 
     float raio = 0;
-
     int opcao = 0;
 
     printf("qual tipo de figura você quer calcular? selecione 1 para circulo ou 2 para quadrado");
@@ -27,8 +28,6 @@ void Calculandofiguras(){
         float quadradoC = Lado * Lado; 
         printf("A área do seu quadrado é de: %.2f cm²", quadradoC);
     }
-
-    
 
 }
 

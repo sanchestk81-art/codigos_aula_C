@@ -7,5 +7,5 @@
 - estruturas de repetição **for, while, do - while**
 - trabalhar com **vetores** 
 
-#Anotações
+# Anotações
 - Em vetores, a programação tabuada tem o for sendo usado.
